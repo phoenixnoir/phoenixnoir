@@ -2,6 +2,7 @@
 Pronouns: she/her
 
 🎓 computer science student
+
 🎨 former senior designer
 
 ### Currently
