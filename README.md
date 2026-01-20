@@ -1,7 +1,8 @@
 # Hi, I'm Caroline 👋🏻
 Pronouns: she/her
 
-🎓 I'm a computer science student who used to be a designer
+🎓 computer science student
+🎨 former senior designer
 
 ### Currently
 - learnining the basics of computer science
