@@ -1,7 +1,7 @@
 # Hi, I'm Caroline 👋🏻
 Pronouns: she/her
 
-🎓 computer science student
+🎓 current computer science student
 
 🎨 former senior designer
 
@@ -10,10 +10,7 @@ Pronouns: she/her
 - learning Java
 - trying to pass my exams
 
-### Languages
-- English (native)
-- German (native)
-- French (barely)
+
 
 <!--
 **phoenixnoir/phoenixnoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
